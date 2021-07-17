@@ -1,5 +1,5 @@
 {
-  "name": "jk-dev-library",
+  "name": "@jk-lib/jk-dev-library",
   "version": "0.0.1",
   "description": "A Library which will be mostly useful in developing frontend applications",
   "main": "index.js",
