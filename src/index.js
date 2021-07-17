@@ -1,5 +1,5 @@
-// import { utilFunction } from "./utils";
+const { utilFunction } = require("./utils");
+import "./css/index.scss";
 
-// utilFunction();
-
-console.log('Hello Webpack Project.');
+utilFunction()
+console.log("Hello World!");
